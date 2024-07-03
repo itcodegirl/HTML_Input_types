@@ -1,8 +1,13 @@
 body {
-	background: #f9f7fe;
+	background-color: rgb(232, 222, 222);
+
+}
+
+label {
 	font-family: "Roboto", sans-serif;
 	font: size 32px;
 	font-weight: 600;
+	color: darkcyan
 }
 
 input {
