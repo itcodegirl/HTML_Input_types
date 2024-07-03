@@ -4,3 +4,11 @@ body {
 	font: size 32px;
 	font-weight: 600;
 }
+
+input {
+	width: 25%;
+	padding: 10px;
+	border: 5px solid #ccc;
+	border-radius: 5px;
+	margin: 10px 0;
+}
